@@ -11,5 +11,6 @@ public class Car {
     private int win;
     private Engine engine;
     private Options options;
+    private Owner owner;
 
 }
