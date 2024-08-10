@@ -9,5 +9,6 @@ public class Car {
     private LocalDate productionDate;
     private String color;
     private int win;
+    private Engine engine;
 
 }
