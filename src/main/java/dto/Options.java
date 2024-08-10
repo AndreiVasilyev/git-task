@@ -5,4 +5,5 @@ public class Options {
     public String video;
     public String gps;
     public String srs;
+    public String heater;
 }
